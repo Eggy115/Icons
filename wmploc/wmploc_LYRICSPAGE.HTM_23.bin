@@ -1,0 +1,6 @@
+<%@ EnableSessionState=False Language=JavaScript%>
+<HTML>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<BODY scroll=auto bgColor=black bottomMargin=5 leftMargin=5 rightMargin=5 text=white topMargin=5 style="font-family: tahoma; font-size: 10pt; text-align: Center">
+</BODY>
+</HTML>

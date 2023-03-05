@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8">
+		<style type="text/css" media="screen"><!--
+body { background-color: #fff; margin: 0px }
+p, td { color: #999; font-size: 10pt; font-family: Tahoma }
+a { color: #366ab3; text-decoration: none }
+a:visited { color: #366ab3; text-decoration: none }
+a:hover { color: #366ab3; text-decoration: underline }
+.txt_1 { font-size: 20pt }
+.tb_1 { width: 100%; height: 100% }
+.tb_2 { margin: 50px }
+--></style>
+	</head>
+
+	<body>
+		<table class="tb_1" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td align="center" valign="middle">
+					<table class="tb_2" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="center" valign="middle"><p id="offline_infoCenter_header" class="txt_1">InfoCenter</p>
+									<br>
+								<p id="offline_infoCenter_use">Use <b>InfoCenter</b> to display information about the currently playing media. </p>
+								<p id="offline_infoCenter_use2">When you use InfoCenter, you can view information about the currently playing media, but your computer must be connected to the Internet. </p>
+								<p id="offline_infoCenter_use3">If your computer is online, verify that the Work Offline command in the File menu is not selected.</p>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</body>
+
+</html>

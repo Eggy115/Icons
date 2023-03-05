@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+
+<style type="text/css" media="screen"><!--
+body { background-color: #fff; margin: 0px }
+p, td { color: #999; font-size: 10pt; font-family: Tahoma }
+.txt_1 { font-size: 20pt }
+.tb_1      { width: 100%; height: 100% }
+.tb_2 { margin: 50px }
+--></style>
+
+</head>
+
+<body>
+<table class="tb_1" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td align="center" valign="middle">
+<table class="tb_2" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="middle"><p id="service_no_local_header" class="txt_1">No Available Online Store</p>
+<br>
+<p id="service_no_local_info">There are no online stores available for your location.</p></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</HTML>
