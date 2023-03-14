@@ -2,7 +2,7 @@
 
 ## Overview
 
-Repository for icons & other resources extracted from various different DLLs and exe.
+Repository for icons & other resources extracted from various different DLLs and executables.
 
 ## List
 Below is list of icon folders and what they contain.
