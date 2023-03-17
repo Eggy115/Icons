@@ -2,7 +2,7 @@
 
 ## Overview
 
-Repository for icons & other resources extracted from various different DLLs and executables.
+Repository for icons & other resources extracted from various different DLLs and executables such as `imageres.dll` and `SHELL32.dll`.
 
 ## List
 Below is list of icon folders and what they contain.
