@@ -21,6 +21,7 @@ Most icons are `.ico` or `.bmp`.
 Other resources such as mouse pointers may be included.
     
 `verify windows.bat` runs the tree command to display all downloaded files.    
+`verify unix.sh` does the same through shell
 
 ## License
 This repository is under the `GNU General Public License 3.0` however check for individual icon copyright before using in your own projects.
