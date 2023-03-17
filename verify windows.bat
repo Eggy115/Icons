@@ -1,0 +1,2 @@
+tree /f
+pause >nul
