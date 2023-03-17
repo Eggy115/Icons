@@ -16,6 +16,7 @@ Below is list of icon folders and what they contain.
 
 ## How to use
 Click `Code` button, then `Download Zip` or clone repository.     
+      
 Most icons are `.ico` or `.bmp`.       
 Other resources such as mouse pointers may be included.
     
