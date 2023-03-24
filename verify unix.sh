@@ -1,3 +1,3 @@
 #!/bin/sh
 ls #files
-tree #requires tree to be installed 
+tree #tree must be installed 
