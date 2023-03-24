@@ -2,4 +2,4 @@
 dir
 tree /f
 pause >nul
-@rem ls, tree, pause
+@rem ls tree pause
