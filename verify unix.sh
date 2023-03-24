@@ -1,3 +1,3 @@
 #!/bin/sh
-ls #files
+ls #show files
 tree #tree must be installed 
