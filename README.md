@@ -1,4 +1,12 @@
-# Icons
+<h1 align="center">Icons</h1>
+
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#list">List</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a> 
+</p>
 
 ## Overview
 
@@ -15,7 +23,7 @@ Below is list of icon folders and what they contain.
 
 <hr>
 
-## How to use
+## Usage
 
 To use these icons, simply download the repository or clone it to your local machine. You can then browse the `icons` directory to find the icons you need. If you are unsure of how to do that, click `Code` button, then `Download Zip` or clone repository using commands.     
         
