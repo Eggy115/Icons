@@ -31,9 +31,13 @@ Most icons are `.ico` or `.bmp`.
 Other resources such as mouse pointers may be included.
 
 ## License
-This repository is licensed under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html). See the [LICENSE](LICENSE) file for more information. **However check for individual icon copyright before using in your own projects. This repository is intended for educational and research purposes only. Any use of these icons for commercial purposes or without proper attribution is strictly prohibited.**    
+This repository is licensed under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html). See the [LICENSE](LICENSE) file for more information.       
+      
+**Check for individual icon copyright before using in your own projects. This repository is intended for educational and research purposes only. Any use of these icons for commercial purposes or without proper attribution is strictly prohibited.**    
 
 ## Contributing
 
-Contributions to this repository are welcome and encouraged. If you have additional icons to contribute, please feel free to submit a pull request. Please make sure to include a clear description of the icons you are adding and any relevant information about where they came from.
+Contributions to this repository are welcome and encouraged. If you have additional icons to contribute, please feel free to submit a pull request. Please make sure to include a clear description of the icons you are adding and any relevant information about where they came from.     
+     
+Please make sure to adhere to the [code of conduct](CODE_OF_CONDUCT.md) and the [contributing guidelines](CONTRIBUTING.md).
 
