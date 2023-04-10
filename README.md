@@ -18,7 +18,67 @@ Below is list of icon folders and what they contain.
 
 <hr>
 
+- `7zip` | contains icons
 - `Accessibility` | contains icons
+- `Audacity` | contains icons
+- `Blend.exe` | contains icons
+- `Blender` | contains icons
+- `BlueStacks` | contains icons
+- `Brave` | contains icons
+- `CMD` | contains icons
+- `DDORes` | contains icons
+- `DavinciResolve` | contains icons
+- `Element` | contains icons
+- `Everything` | contains icons
+- `Explorer` | contains icons
+- `Firefox` | contains icons
+- `GIMP` | contains icons
+- `Java` | contains icons
+- `Krita` | contains icons
+- `Librewolf` | contains icons
+- `Netcentre` | contains icons
+- `Node` | contains icons
+- `NotepadPlusPlus` | contains icons
+- `OBS` | contains icons
+- `OONI` | contains icons
+- `Powertoys` | contains icons
+- `Python` | contains icons
+- `Rainmeter` | contains icons
+- `Regedit` | contains icons
+- `SHELL32` | contains icons
+- `SensorsCpl` | contains icons
+- `Session` | contains icons
+- `Signal` | contains icons
+- `TOR` | contains icons
+- `Taskmgr.exe` | contains icons
+- `VLC` | contains icons
+- `VirtualBox` | contains icons
+- `Visual Studio` | contains icons
+- `WinRAR` | contains icons
+- `WinaeroTweaker` | contains icons
+- `Wireshark` | contains icons
+- `batmeter` | contains icons
+- `compstui` | contains icons
+- `comres` | contains icons
+- `discordcanary` | contains icons
+- `dmdskres` | contains icons
+- `dsuiext` | contains icons
+- `git` | contains icons
+- `ieframe` | contains icons
+- `imageres` | contains icons
+- `mmcndmgr` | contains icons
+- `moricons` | contains icons
+- `msedge` | contains icons
+- `msinfo32` | contains icons
+- `mstsc` | contains icons
+- `mstscax` | contains icons
+- `netshell` | contains icons
+- `networkexplorer` | contains icons
+- `pifmgr` | contains icons
+- `setupapi` | contains icons
+- `stobject` | contains icons
+- `wiashext` | contains icons
+- `wmploc` | contains icons
 - `wpdshext` | contains icons
 
 <hr>
